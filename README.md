@@ -11,9 +11,10 @@
     <div align=left>
         <br>
         <p>
-              I’m Kevin. I’m a software engineer who loves building stuff and learning cool things in the way. My favorite programming languages and technologies are Python 🐍, C, C++, Go 🐹, Docker 🐳, Linux 🐧 and <i>sometimes</i> Javascript.
+              I’m Kevin. I’m a software engineer who loves building stuff and learning cool things in the way. My favorite programming languages and technologies are Python 🐍, C, C++, Go 🐹, Docker 🐳, Linux 🐧 and everything open source ❤️.
               
-I am a big fan of science 🔭, love learning foreign languajes and I think re-inventing the wheel is great sometimes 🔧.
+I am a big fan of science 🔭, love learning foreign languajes and I think re-inventing the wheel is a great idea sometimes 🔧.
+              
 If you want to, feel free to say “hi” 👋 anytime.
       </p>
     </div>
